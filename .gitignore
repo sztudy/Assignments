@@ -2,3 +2,4 @@
 *.log
 *ubyte
 *model*
+*.pkl
